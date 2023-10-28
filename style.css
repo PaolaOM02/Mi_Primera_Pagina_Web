@@ -1,0 +1,75 @@
+*{
+    font-family: 'Crimson Text', serif;
+}
+
+header{
+    
+    background-image: url("imagenes/casa.jpg");
+    /*background-repeat: no-repeat;*/
+    background-size: auto;
+}
+/*así es como puedo poner un comentario*/
+main{
+    /*background-color:#f36444;*/
+    /*background-image: url("imagenes/MariHuaCheng.jpg");*/
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-color: black;
+    opacity: 0.8;
+}
+/*https://i.pinimg.com/1200x/2e/46/42/2e4642d5809c96ef794293ed93248905.jpg*/
+body{
+    background-color: #670d0f;
+}
+
+h1{
+    color: #ffce6f;
+    text-align: center;
+}
+p{
+    color: #ffe3c9;
+    font-size: 16px;
+}
+h3{
+    color: #f01945;
+}
+h5{
+    color: #ffe3c9;
+}
+ol{
+    color: #ffe3c9;
+}
+h4{
+    color: #ffce6f;
+}
+label{
+    color: #ffe3c9;
+}
+.titulo1{
+    color: #f01945;
+}
+.titulo3{
+    color: #f01945;
+}
+#lista-desordenada{
+    color: #ffe3c9;
+}
+img{
+    width: 400px;
+    margin-left: auto;
+    margin-right: auto;
+    display: block;
+    /*opacity: 0.9;*/
+}
+
+.divParrafo{
+    border-radius: 30px;
+    background-color: #f01945;
+    font-size: 25px;
+    text-align: center;
+}
+.imagen{
+width: 200px;
+margin-left: auto;
+margin-right: auto;
+}
